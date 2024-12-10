@@ -15,7 +15,7 @@ from datasets import load_dataset
 dataset = load_dataset('poloclub/diffusiondb') 
 
 ## framework⁠
-`path/to/your/image.jpg`
+`[path/to/your/image.jpg](https://github.com/Ashwini6868/Text_to_Image_Gen/blob/main/framework.png)`
 
 
 
