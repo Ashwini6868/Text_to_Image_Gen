@@ -15,7 +15,8 @@ from datasets import load_dataset
 dataset = load_dataset('poloclub/diffusiondb') 
 
 ## framework⁠
-`(https://github.com/Ashwini6868/Text_to_Image_Gen/blob/main/framework.png)`
+![Alt Text](https://github.com/Ashwini6868/Text_to_Image_Gen/raw/main/framework.png)
+
 
 
 
